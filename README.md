@@ -13,7 +13,7 @@ Courses:
   - [Ver detalles](CSE02.md) 
   
 - **CPC01 - Parallel Computing**
-  - [Link to Course](#) <!-- Update with your course link -->
+  - [Link to Course](PARALE.md) <!-- Update with your course link -->
   
 - **COM01 - Optimization Methods**
   - [Link to Course](#) <!-- Update with your course link -->
