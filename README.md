@@ -7,7 +7,7 @@
 Courses:
 
 - **CPL01 - Programming Languages**
-  - [Link to Course](#) <!-- Update with your course link -->
+  - [Link to Course](CPL01.md)
   
 - **CSE02 - Software Engineering**
   - [Ver detalles](CSE02.md) 
