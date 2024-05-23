@@ -32,5 +32,8 @@ Week 1:
 |19       |214540    |72314901  |Maquera Andrade Aldair Jose|https://github.com/Alenm1/Software-Eng.-course.git|
 |20       |200804    |72687388  |Denilzon Robinho Tapara Tristan|https://github.com/DenilzonTaparaTristan/SIworks|
 | 21      | 213915   | 70188630 |Cruz Paredes Soledad Epifania | https://github.com/soledad-cruz/Ing-de-software-I |
-|22       |214320   | 70390994 |Supo Ramos Alex Gilmar| https://github.com/alexgilmar/SOFWARE |
-
+|18       |214540    |72314901  |Maquera Andrade Aldair Jose|https://github.com/Alenm1/Software-Eng.-course.git|
+|19       |213727    |71864209  |Churquipa Quispe Uriel Rojas|https://github.com/18uriel/Sowftware-Engineering.git|
+|20       |200804    |72687388  |Denilzon Robinho Tapara Tristan|https://github.com/DenilzonTaparaTristan/SIworks|
+|21      | 213915   | 70188630 |Cruz Paredes Soledad Epifania | https://github.com/soledad-cruz/Ing-de-software-I |
+|23      |214320   | 70390994 |Supo Ramos Alex Gilmar| https://github.com/alexgilmar/SOFWARE |
